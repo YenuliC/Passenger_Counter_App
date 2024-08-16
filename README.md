@@ -14,5 +14,5 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 
 ## Demo
 
-📌Figma UI design - https://www.figma.com/design/RvaZwjG35de5IfYcYtkZ8L/Passenger_Counter_App?node-id=0-1&m=dev&t=VQiqqZkWiOrJtAqr-1
-📌Live URL - https://yenulic.github.io/Passenger_Counter_App/
+- Figma UI design - https://www.figma.com/design/RvaZwjG35de5IfYcYtkZ8L/Passenger_Counter_App?node-id=0-1&m=dev&t=VQiqqZkWiOrJtAqr-1
+- Live URL - https://yenulic.github.io/Passenger_Counter_App/
